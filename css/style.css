@@ -32,7 +32,7 @@ h1.b1,h2.b2,h3.b3 {
 }	
 /*-- header_top --*/
 .banner{
-	background:url(../images/bnr1.jpg) no-repeat 0px 0px;
+	background:url(../images/bnr.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	min-height:790px;	
 }
@@ -601,7 +601,7 @@ a.list-group-item:hover {
 }
 /*----*/
 .banner2{
-background:url(../images/bnr1.jpg) no-repeat 0px 0px;
+background:url(../images/bnr.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	min-height:250px;
 }
